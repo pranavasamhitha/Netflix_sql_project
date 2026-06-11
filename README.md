@@ -9,8 +9,13 @@ The project demonstrates practical SQL skills commonly used in data analytics an
 
 ---
 
+  
 ## Dataset
 
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+  
 The dataset contains information about Netflix Movies and TV Shows, including:
 
 * Show ID
@@ -26,7 +31,6 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 * Genre
 * Description
 
----
 
 ## Database Schema
 
