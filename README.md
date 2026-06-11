@@ -217,8 +217,6 @@ This project demonstrates practical SQL problem-solving skills by answering real
 
 ### Author
 
-**Pranava Samhitha Varayuru**
+**Pranava Samhitha Varayuru**<br>
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
-
-
 
