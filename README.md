@@ -217,10 +217,3 @@ Netflix-SQL-Project/
 
 This project demonstrates practical SQL problem-solving skills by answering real-world business questions using a publicly available Netflix dataset. It showcases proficiency in data exploration, transformation, aggregation, window functions, and analytical query writing using PostgreSQL.
 
----
-
-### Author
-
-**Pranava Samhitha Varayuru**<br>
-Aspiring Data Analyst | SQL | Python | Power BI | Excel
-
